@@ -1,0 +1,57 @@
+{
+	"name": "<Candy Corn Jello Shots>",
+	"description": "<Jello shots to help get you in the Halloween spirit!>",
+	"github": "<dhanvey>",
+	"ingredients": [
+    {
+			"quantity": "<1>",
+			"measure": "<box>",
+			"ingredient": "<orange-flavored Jell-O>"
+		},
+		{
+			"quantity": "<1>",
+			"measure": "<box>",
+			"ingredient": "<lemon-flavored Jell-O>"
+		},
+		{
+			"quantity": "<3>",
+			"measure": "<envelopes>",
+			"ingredient": "<Knox unflavored gelatin>"
+		},
+		{
+			"quantity": "<4>",
+			"measure": "<oz.>",
+			"ingredient": "<sweetened condensed milk>"
+		},
+		{
+			"quantity": "<3>",
+			"measure": "<cups>",
+			"ingredient": "<water>"
+		},
+		{
+			"quantity": "<1 1/2>",
+			"measure": "<cups>",
+			"ingredient": "<vanilla-flavored vodka>"
+		}
+	],
+	"directions": [
+		"<Pour 1 cup of water and 1 envelope of unflavored gelatin into a saucepan. Heat on a stove over medium heat, while stirring occasionally until all the gelatin powder dissolves.>",
+		"<Remove the pan from heat and add sweetened condensed milk. Mix well.>",
+		"<Add 1/2 cup of vodka. Make sure the mixture is completely cooled so the alcohol isn't cooked out.>",
+		"<Fill each shot glass up 1/3 of the way with the condensed mixture. Then, refrigerate the shots for 30 minutes or until firm.>",
+		"<In a new saucepan, pour 1 cup of water and 1 envelope of unflavored gelatin. Repeat step 1, stirring until the gelatin is fully dissolved.>",
+		"<Remove the pan from heat and add your box of orange Jell-O mix. Stir until completely dissolved.>",
+		"<Add 1/2 cup of vodka and stir until combined. Then, pour your orange Jello-O mixture to 2/3 of the way of each shot glass. Refrigerate for another 30-40 minutes.>",
+		"<Repeat steps 5 and 6 with the lemon Jell-O, filling the shot glasses up to the top. Refrigerate for another 30 minutes.>",
+		"<Serve and enjoy!>"
+	],
+	"image": "<candy-corn-jello-shot.jpg>",
+	"source": "<https://s3.amazonaws.com/secretsaucefiles/photos/images/000/099/132/large/feat.jpg?1485295267>",
+	"keywords": [
+		"jello",
+		"shots",
+		"festive",
+		"Halloween",
+		"alcoholic"
+	]
+}
